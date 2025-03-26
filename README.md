@@ -5,7 +5,7 @@
 📊 Passionate about **data analysis** and **mathematical modeling**  
 🚀 Always eager to learn and improve my skills   
 
-## 📚 Projects
+## 📚 Major Projects
 - **Statystyka_raport1** – Analysis of Stock Prices of Companies Producing COVID-19 Vaccines 
 - **ARMA_model_project** – Analysis of temperature data from Warsaw using the ARMA (AutoRegressive Moving Average) model
 
