@@ -2,7 +2,9 @@
 
 🎓 **3rd year Applied Mathematics student**  
 🐍 I primarily program in **Python**  
-📊 Passionate about **data analysis** and **mathematical modeling**  
+📊 Passionate about **data analysis** and **mathematical modeling** 
+🔍 Interested in applying mathematics to real-world problems
+🤝 Actively involved in volunteer work
 🚀 Always eager to learn and improve my skills   
 
 ## 📚 Major Projects
@@ -10,4 +12,4 @@
 - **ARMA_model_project** – Analysis of temperature data from Warsaw using the ARMA (AutoRegressive Moving Average) model
 
 ## 📬 Contact
-- 🌐 **LinkedIn**: (https://www.linkedin.com/in/magdalena-ry%C5%9B-188241336/)
+- 🌐 **LinkedIn**: [Magdalena Ryś](https://www.linkedin.com/in/magdalena-ry%C5%9B-188241336/)
