@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Magdalena 👋
 
-<!--
-**MagdalenaRys/MagdalenaRys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd year Applied Mathematics student**  
+🐍 I primarily program in **Python**  
+📊 Passionate about **data analysis** and **mathematical modeling**  
+🚀 Always eager to learn and improve my skills   
 
-Here are some ideas to get you started:
+## 📚 Projects
+- **Statystyka_raport1** – Analysis of Stock Prices of Companies Producing COVID-19 Vaccines 
+- **ARMA_model_project** – Analysis of temperature data from Warsaw using the ARMA (AutoRegressive Moving Average) model
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+- 🌐 **LinkedIn**: (https://www.linkedin.com/in/magdalena-ry%C5%9B-188241336/)
