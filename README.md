@@ -10,7 +10,7 @@
 
 ## 📚 Major Projects
 - [Statystyka_raport1](https://github.com/MagdalenaRys/Statystyka_raport1) – Analysis of Stock Prices of Companies Producing COVID-19 Vaccines 
-- [ARMA_model_project](https://github.com/MagdalenaRys/ARMA_model_project) – Analysis of temperature data from Warsaw using the ARMA (AutoRegressive Moving Average) model
+- [ARMA_model_project](https://github.com/MagdalenaRys/ARMA_model_project) – Analysis of Temperature Data from Warsaw Using the ARMA (AutoRegressive Moving Average) Model
 
 ## 📬 Contact
 - 🌐 **LinkedIn**: [Magdalena Ryś](https://www.linkedin.com/in/magdalena-ry%C5%9B-188241336/)
