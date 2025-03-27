@@ -8,7 +8,7 @@
 🚀 Always eager to learn and improve my skills  
 
 
-## 📚 Major Projects
+## 📚 Main Projects
 - [Statystyka_raport1](https://github.com/MagdalenaRys/Statystyka_raport1) – Analysis of Stock Prices of Companies Producing COVID-19 Vaccines 
 - [ARMA_model_project](https://github.com/MagdalenaRys/ARMA_model_project) – Analysis of Temperature Data from Warsaw Using the ARMA (AutoRegressive Moving Average) Model
 
